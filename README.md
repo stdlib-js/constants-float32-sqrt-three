@@ -153,6 +153,13 @@ Macro for the [square root][@stdlib/math/base/special/sqrtf] of `3` as a single-
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float32/sqrt-two`][@stdlib/constants/float32/sqrt-two]</span><span class="delimiter">: </span><span class="description">square root of `2` as a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/sqrt-three`][@stdlib/constants/float64/sqrt-three]</span><span class="delimiter">: </span><span class="description">square root of 3.</span>
+
 </section>
 
 <!-- /.related -->
@@ -183,7 +190,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -230,6 +237,14 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float32-sqrt-three/main/LICENSE
 
 [@stdlib/math/base/special/sqrtf]: https://github.com/stdlib-js/math-base-special-sqrtf
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float32/sqrt-two]: https://github.com/stdlib-js/constants-float32-sqrt-two
+
+[@stdlib/constants/float64/sqrt-three]: https://github.com/stdlib-js/constants-float64-sqrt-three
+
+<!-- </related-links> -->
 
 </section>
 
