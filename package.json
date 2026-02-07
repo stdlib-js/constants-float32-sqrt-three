@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float32-sqrt-three",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Square root of 3 as a single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
