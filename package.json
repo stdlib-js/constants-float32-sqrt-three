@@ -73,6 +73,7 @@
     "three",
     "sqrt3",
     "ieee754",
+    "float",
     "single",
     "floating-point",
     "float32"
